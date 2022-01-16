@@ -27,3 +27,6 @@ users.forEach(user => {
 }
 
 module.exports = { addClient, parserClients, updateClient, findAclient, updateSingleUser, updateCoupleUsers};
+
+// you make me proud that greate you make this realy good that's a good code
+// one thing please think what you work on Users or Clients diff naming
